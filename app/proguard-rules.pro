@@ -1,0 +1,1 @@
+-keepclassmembers class vn.io.liteapp.android.MainActivity$LiteAppBridge { public *; }
